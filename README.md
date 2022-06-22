@@ -3,8 +3,8 @@
 ## Contents                                                                                                                  
 
 1. [Contributors](#Contributors)
-2. [Environment Settings](#Environment Settings)
-3. [Pre-trained Networks](#Pre-trained Networks)
+2. [Environment Settings](#Environment-Settings)
+3. [Pretrained Networks](#Pretrained-Networks)
 4. [Training](#Training)
 5. [Testing](#Testing)
 
@@ -29,13 +29,13 @@ conda activate crvt
 pip install -r requirements.txt
 ```
 
-## Pre-trained Networks
+## Pretrained Networks
 
 not yet
 
 ## Training
 
-* [Setup](#Environment Settings) your environment
+* [Setup](#Environment-Settings) your environment
 
 ### Data Preparation
 
@@ -44,7 +44,7 @@ not yet
 
 ## Testing
 
-* [Setup](#Environment Settings) your environment
+* [Setup](#Environment-Settings) your environment
 
 ### Data Preparation
 
